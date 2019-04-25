@@ -1,0 +1,1 @@
+print('鲁迅 once said, "湖人总冠军！"')
