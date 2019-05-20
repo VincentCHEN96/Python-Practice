@@ -1,0 +1,3 @@
+In Python you can say "Hello World!".
+In Python you can use Function.
+In Python you can use Class.
