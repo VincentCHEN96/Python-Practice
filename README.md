@@ -1,2 +1,2 @@
 # Python-Practice
-Python语言练习存档
+Python 语言练习存档
