@@ -1,0 +1,15 @@
+dream_list = ['Japan', 'England', 'France', 'Greece', 'HongKong']
+
+print(dream_list)
+print(sorted(dream_list))
+print(dream_list)
+print(sorted(dream_list, reverse=True))
+print(dream_list)
+dream_list.reverse()
+print(dream_list)
+dream_list.reverse()
+print(dream_list)
+dream_list.sort()
+print(dream_list)
+dream_list.sort(reverse=True)
+print(dream_list)
